@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "lokalise.i18n-ally",
+    "nuxtr.nuxt-vscode-extentions",
+    "nuxt.mdc",
+    "nuxtr.nuxtr-vscode"
+  ]
+}
