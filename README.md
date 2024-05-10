@@ -36,7 +36,7 @@ The Medusa frontend template is built using the following technologies:
 At the moment there is no translations available but the template will be updated with i18n support in the future.
 
 ### Medusa
-To run this you have to have a medusa instance running locally with a default port of 8000. You will also need to have the stripe integration installed.
+To run this you have to have a medusa instance running locally with a default port of 9000. You will also need to have the stripe integration installed.
 
 ## Contributing
 We welcome contributions from the community. To contribute to the Medusa frontend template, you can open a Pull Request against this repository.
